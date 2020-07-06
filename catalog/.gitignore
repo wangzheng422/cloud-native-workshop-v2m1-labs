@@ -28,11 +28,3 @@ nbdist/
 .nb-gradle/
 
 .DS_Store
-
-target/
-
-*/.project
-*/.settings/*
-*/bin
-
-*/.classpath
